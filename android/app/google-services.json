@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "411037147331",
+    "project_id": "wallpaper-7deef",
+    "storage_bucket": "wallpaper-7deef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411037147331:android:8da3179d7e9241661d0276",
+        "android_client_info": {
+          "package_name": "com.appero.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411037147331-gv90rlrt5igfp24bl3hq3j6nuijpuvv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appero.wallpaper",
+            "certificate_hash": "fc3805fd6bba7eac99c9dcf2e5605e18875a04df"
+          }
+        },
+        {
+          "client_id": "411037147331-rdo90sp22brkd778188slf9s74nvfti5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMMk-eiirJ6DcKSiy3rPxxmclMZIPJaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411037147331-rdo90sp22brkd778188slf9s74nvfti5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
